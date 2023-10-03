@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100 & display=swap');
+
+/*BODY*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+}
+
+.miLogo {
+    width: 600px;
+}
+
+.miFondo {
+    background-color:#FADBD8;
+}
+
+header {
+    border-top: solid 10px #ABE1CA;
+}
+
+.miLink:hover {
+    background-color: #ADE2B2;
+}
+
+.tituloTendencia {
+    text-align: center;
+    background-color: #EC7063;
+
+}
+
+/*PIE DE PAGINA*/
+.footer {
+    text-align: left;
+    font-size: 15px;
+    background-color: #ABE1CA;
+    border-radius: 2px;
+}
+
+.derechos {
+    font-size: 12px;
+    text-align: center;
+}
+
+/*MUJER*/
+
+/*CARDS*/
+
+.tituloNuevo{
+    text-align: center;
+    background-color: #EC7063;
+}
+
+.btn {
+    background-color: #FFDAB9;
+    color: black;
+    border: none;
+}
+.btn:hover {
+    background-color: #CAABE1;
+    color: bisque;
+}
+
+.colorBtn {
+     background-color: #ABDDE1;
+    color: black;
+}
+
+.colorBtn:hover{
+    background-color: #CAABE1;
+    color: bisque;
+}
